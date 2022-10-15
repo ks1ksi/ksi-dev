@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ff823a4647da956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/전역까지 한 달 남았습니다!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Life/전역까지 한 달 남았습니다!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Life/전역까지 한 달 남았습니다!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Life/전역까지 한 달 남았습니다!.md"
               }
             }
           }
@@ -139,10 +152,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a9ec38bc82c96425",
+  "active": "1ff823a4647da956",
   "lastOpenFiles": [
-    "PS/BOJ/백준 2629번 양팔저울.md",
     "Home.md",
+    "PS/BOJ/백준 2629번 양팔저울.md",
     "README.md",
     "2022-10-16.md",
     "Test.md",
