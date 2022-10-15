@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PS/BOJ/백준 2629번 양팔저울.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PS/BOJ/백준 2629번 양팔저울.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PS/BOJ/백준 2629번 양팔저울.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PS/BOJ/백준 2629번 양팔저울.md"
+                "file": "Home.md"
               }
             }
           }
@@ -141,9 +141,9 @@
   },
   "active": "a9ec38bc82c96425",
   "lastOpenFiles": [
+    "PS/BOJ/백준 2629번 양팔저울.md",
     "Home.md",
     "README.md",
-    "PS/BOJ/백준 2629번 양팔저울.md",
     "2022-10-16.md",
     "Test.md",
     "PS/Untitled.md"
